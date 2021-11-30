@@ -27,8 +27,8 @@ to update the `README.md` file. Use `git` to commit your changes. We'll be using
 
 You should plan on spending no more than 2 hours on this assignment. While there
 are many possible edits, prioritize your edits so that we can see how you
-sequence edits, what stylistic changes you might make, and what your technical
-assessment is.
+sequence edits, what stylistic changes you might make, and what your approach to
+explaining the learning goals is.
 
 ## Guidelines
 
