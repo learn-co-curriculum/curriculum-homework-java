@@ -21,7 +21,8 @@ helpful resource.
 
 Please clone (don't fork) this repository, and use a text editor of your choice
 to update the `README.md` file. Use `git` to commit your changes. We'll be using
-`git diff` and similar tools to see what you changed.
+`git diff` and similar tools to see what you changed, so be sure to maintain the
+repo's full commit history.
 
 ## Time Commitment
 
@@ -48,7 +49,8 @@ consistent throughout.
 To submit, please push your code to a **private** GitHub repository and share it
 with the following GitHub users: [AlveeM](https://github.com/AlveeM/), 
 [kcleland0818](https://github.com/kcleland0818), and 
-[lizbur10](https://github.com/lizbur10).
+[lizbur10](https://github.com/lizbur10). Make sure your repo includes the full
+commit history.
 
 ## Evaluation
 
